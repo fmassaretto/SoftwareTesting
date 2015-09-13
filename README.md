@@ -3,4 +3,4 @@
 
 Trabalho da Adani
 
-Clones este github no computador.
+Clone este github no computador.
